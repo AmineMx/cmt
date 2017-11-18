@@ -1,0 +1,14 @@
+{
+    "name": "aminemx/cmt",
+    "description": "something good happned",
+    "license": "libre",
+    "authors": [
+        {
+            "name": "Amine",
+            "email": "psj.amine@gmail.com"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.1"
+    }
+}
